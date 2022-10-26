@@ -1,4 +1,4 @@
-<h1 align="centre">Heya Techies, Vasu Kansal here</h1>
+<h1 align="center">Heya Techies, Vasu Kansal here</h1>
 <hr>
 
 <!-- HOLOPIN BADGE BOARD -- -->
