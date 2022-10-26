@@ -2,7 +2,7 @@
 <hr>
 
 <!-- HOLOPIN BADGE BOARD -- -->
-### 🎗️Holopin Badge Board
+<h1>Holopin Badge Board</h1>
 [![@vasu204's Holopin board](https://holopin.me/vasu204)](https://holopin.io/@vasu204)
 
 
