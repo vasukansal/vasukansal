@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr>
 
 <!-- HOLOPIN BADGE BOARD -- -->
 ### 🎗️Holopin Badge Board
