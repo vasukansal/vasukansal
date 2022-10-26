@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<!-- HOLOPIN BADGE BOARD -- -->
+[![@vasu204's Holopin board](https://holopin.me/vasu204)](https://holopin.io/@vasu204)
+
+
 <!--
 **vasukansal/vasukansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
