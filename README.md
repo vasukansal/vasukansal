@@ -23,7 +23,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white https://www.youtube.com/watch?v=skVk1jp--AY&list=TLPQMjcxMDIwMjLhg-JB1n1fxw&index=2)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **vasukansal/vasukansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
