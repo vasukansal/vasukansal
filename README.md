@@ -25,6 +25,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+
 <!--
 **vasukansal/vasukansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
