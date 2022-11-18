@@ -26,6 +26,7 @@
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <hr>
 
+![snake gif](https://github.com/vasukansal/vasukansal/blob/output/github-contribution-grid-snake.gif)
 <!--# **Visitors Count**
 
 <!--![Visitor count](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
