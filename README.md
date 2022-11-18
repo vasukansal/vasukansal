@@ -32,11 +32,12 @@
 <!--![Visitor count](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 <!--
-**vasukansal/vasukansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vasukansal/vasukansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <hr>
 # **Github Stats -- **
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vasukansal)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vasukansal)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
