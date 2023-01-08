@@ -37,6 +37,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasukansal&theme=algolia_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasukansal)](https://github.com/vasukansal/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/vasukansal)
 
 <!--
 Here are some ideas to get you started:
